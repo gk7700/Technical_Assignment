@@ -1,0 +1,2 @@
+= Technical_Assignment
+Prepare a draft (2-3 pages document) with AsciiDoc language.
