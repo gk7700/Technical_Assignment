@@ -1,1 +1,1 @@
-![Uploading networking.jpg…]()
+image::![Uploading networking.jpg…]
