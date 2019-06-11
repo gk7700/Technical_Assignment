@@ -1,2 +1,4 @@
-= Technical_Assignment
-Prepare a draft (2-3 pages document) with AsciiDoc language.
+= Brillio Technical Writing Assignment
+
+*Task*: Prepare a draft (2-3 pages document) with AsciiDoc language on the following subject:
+        *_How SDN and NFV are changing the networking game_*?
