@@ -3,7 +3,7 @@ Doc Writer <www.gk7700@gmail.com>
 v 1.0, 2019-06-12
 :homepage: https://gk7700.github.io/Technical_Assignment/ 
 
-![networking](https://user-images.githubusercontent.com/40832072/59375998-eafdd980-8d6c-11e9-98a9-77d7940d1e6b.jpg) 
+image::networking.jpg[!networking(https://user-images.githubusercontent.com/40832072/59375998-eafdd980-8d6c-11e9-98a9-77d7940d1e6b.jpg)] 
 
 
 == Introduction
