@@ -11,7 +11,6 @@ Throughout the years, service supplier networks have turned out to be complex, r
 This is an exceptionally noteworthy change, comparative in nature to the `TDM-to-IP` change that began in the late 1990s. During this change, a few focal workplaces will change over from inheritance structures of direction fabricated network components to virtualized designs with business off-the-rack platforms facilitating virtual network components. These virtual network components can be controlled from outer software frameworks where the service creation and organization insight dwells. Service providers will be in a situation to offer separated services to their clients through their control of the coordination platforms. 
 
 *Brandon Butler* offered a reasonable meaning of these innovations in his article," https://www.networkworld.com/article/3206709/what-s-the-difference-between-sdn-and-nfv.html[What's the contrast among SDN and NFV]"?  
-
 [quote, Brandon Butler]
 Software Defined Networking as an isolating the control plane of a network from the information plane that advances network traffic.
 
