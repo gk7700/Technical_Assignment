@@ -3,6 +3,10 @@ Doc Writer <www.gk7700@gmail.com>
 v 1.0, 2019-06-12
 :homepage: https://gk7700.github.io/Technical_Assignment/ 
 
+<p align="center">
+  ![networking](https://user-images.githubusercontent.com/40832072/59375998-eafdd980-8d6c-11e9-98a9-77d7940d1e6b.jpg)
+</p>
+
 == Introduction
 One of the striking attributes of the advanced unrest is the speeding up of progress. Technologies that empowwered the digital revolution over past decades experience innovation cycles at full tilt—for instance, recall how quickly cell phone innovation has progressed. And keeping in mind that it's a test to remain current with such quickened changes, the progressions reliably convey both operational and monetary advantages.
 
