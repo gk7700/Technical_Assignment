@@ -12,7 +12,7 @@ This is an exceptionally noteworthy change, comparative in nature to the `TDM-to
 
 *Brandon Butler* offered a reasonable meaning of these innovations in his article," https://www.networkworld.com/article/3206709/what-s-the-difference-between-sdn-and-nfv.html[What's the contrast among SDN and NFV]"?  
 
-[quote, Brandon Butler] 
+[quote, Brandon Butler]
 Software Defined Networking as an isolating the control plane of a network from the information plane that advances network traffic.
 
 The objective of this disaggregation is to make a network that is midway overseen and programmable. Some SDN executions utilize a software-based administration stage that controls item network equipment. Different methodologies utilize coordinated equipment and software-approach.
