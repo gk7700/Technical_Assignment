@@ -1,1 +1,32 @@
-test
+= How SDN and NFV are changing the networking game?
+Doc Writer <www.gk7700@gmail.com>
+v 1.0, 2019-06-12
+:homepage: https://gk7700.github.io/Technical_Assignment/ 
+
+== Introduction
+One of the striking attributes of the advanced unrest is the speeding up of progress. Technologies that empowwered the digital revolution over past decades experience innovation cycles at full tilt—for instance, recall how quickly cell phone innovation has progressed. And keeping in mind that it's a test to remain current with such quickened changes, the progressions reliably convey both operational and monetary advantages.
+
+Networks today can be set up and expanded without the requirement for ventures to accept total accountability for the procurement, installation, configuration, and maintenance of network hardware infrastructure. Because of this, many service providers have set out on a noteworthy activity to move their IP networks from purpose-built manufactured platforms to virtualized, software-based platforms announcing a new era of _programmable networks_. 
+
+Two technology trends that are transforming network management, particularly those that are widely-distributed and employ public, private or hybrid cloud services, are *Software Defined Networks (SDN)* and *Network Functions Virtualization (NFV)*, which is why, most of the service providers are progressively heralding these technologies to advance their networks to turn out to be increasingly dexterous and flexible, better managed and mobilized with automation; consequently driving lower `CAPEX` and `OPEX`. With virtualization, service providers hope to deal with service creation and improve quicker in light of client and market needs and open doors just as to address competitive challenges that comes along the way. Guaranteeing the coherence of value network services through this network development requires ongoing real-time visibility at the most granular dimension of these transitory virtualized components.  
+
+Throughout the years, service supplier networks have turned out to be complex, rigid, and firm as far as service creation and delivery is concerned, thereby, hindering the innovation cycle and driving up the capital and operational costs. The tight combination between services software and purpose-build hardware has made it progressively hard to control services _on-demand_. The business method of reasoning for this change is to make an increasingly powerful and agile framework where existing services can be changed _on-the-fly_ and new services can be delivered quickly in response to the ever-changing client needs. Besides, the all-out expense of ownership can be decreased through improved automation and coordination capacities. 
+
+This is an exceptionally noteworthy change, comparative in nature to the *TDM-to-IP* change that began in the late 1990s. During this change, a few central workplaces will change over from legacy architecture of direction fabricated network components to virtualized architectures with business off-the-rack platforms facilitating virtual network components. These virtual network components can be controlled from outer software frameworks where the service creation and organization insight dwells. Service providers will be in a situation to offer separated services to their clients through their control of the coordination platforms. 
+
+*Brandon Butler* clearly explained these innovations in detail through his article," https://www.networkworld.com/article/3206709/what-s-the-difference-between-sdn-and-nfv.html[What's the contrast among SDN and NFV]"? + 
+
+He further defined Software Defined Networking as: 
+....
+An idea of isolating the control plane of a network from the data plane that forwards network traffic.
+....
+The objective of this disaggregation is to make a network that is centrally managed and programmable. Some SDN executions utilize a software-based management platform that controls commodity network equipments. Different methodologies utilize integrated hardware and software-approach.
+
+Further, Brandon explained that "the crucial thought of NFV is to virtualize network services and remove them from dedicated hardware. NFV deployments ordinarily use product servers to run software forms of network services that beforehand were hardware-based. These software-based services are called *Virtual Network Functions (VNF)* and would keep running in an NFV environment. Instances of VNFs include routingg, firewalling, load balancing, WAN acceleration, and encryption. By virtualizing these network services, providers can offer clients these services dynamically, with the capacity to turn them up and down on demand." 
+
+NOTE: This new virtualized infrastructure is based on open standards for SDN and NFV. By virtualizing network capacities, NFV permits network functions to be set at any place in the infrastructure and be moved as necessary. By isolating control plane and data plane functions, SDN permits individual packet flows to be steered through the suitable service layers as required. 
+
+Service assurance solutions that are virtualized can likewise mesh themselves into this architecture at both the NFV and SDN functionality. Such software-based arrangements can possibly provide more cost, effective visibility, proactive monitoring, and service triage. 
+
+To encourage _on-demand_ service turn up (and turn down) while keeping up service quality, service providers need a solution that provides real-time visibility right down to the VNF layer with real-time checks and alerting functionality. This discrete dimension of perceptibility can likewise turn out to be a piece of the automation layer that empowers the flexibility of networks with virtualization. Along these lines, service providers can transition their network and services to NFV and SDN with certainty. 
+
