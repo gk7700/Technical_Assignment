@@ -1,4 +1,4 @@
-= Technical Writing Assignment
+= How SDN and NFV are Changing the Networking Game
 
 *Task*: Prepare a draft (2-3 pages document) with AsciiDoc language on the following subject:
         *_How SDN and NFV are changing the networking game_*?
